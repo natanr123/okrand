@@ -14,5 +14,5 @@ console.log(randomIntRange(3,7));
 // result can be of of the values 3,4,5,6,7
 
 console.log(shuffle([1,2]));
-// result is [ 1, 2 ] or [ 2,1 ]
+// result is [1,2] or [2,1]
 
